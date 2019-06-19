@@ -1,0 +1,6 @@
+owner=528303346969214977
+prefix=$
+game=Online | $play
+stayinchannel=true
+songinstatus=false
+token=NTkwNjk2ODk2ODc2NzczMzc5.XQmBGA.xG_AyM-VzYgmxgAh0hajBHNVbmc
